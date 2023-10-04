@@ -30,8 +30,8 @@ body{
 }
 
 .img img{
-    width: 28.5vw;
-    height: auto;
+    width: auto;
+    height: 15vh;
     border-radius: .6rem;
 }
 
